@@ -1,5 +1,3 @@
-# projet_temperature_Python_vscode
-
 ## Climate Temperature Analysis
 
 ### Project Features
